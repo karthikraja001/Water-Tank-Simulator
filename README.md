@@ -3,6 +3,10 @@
 This is a really cool and simple application demonstrating how a water tank works.
 This application is created using VB .NET Framework.
 
+# Alert
+
+Please Feel Free to Fork this project.
+
 # How It Looks
 ![Water Tank Simulator](https://user-images.githubusercontent.com/64122408/97703444-a8aa7900-1ad6-11eb-836c-1302c8c5b061.gif)
 
